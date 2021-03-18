@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <products>
+ 	<product>
+ 		<id>p01</id>
+ 		<name>name01</name>
+ 		<price>100</price>
+ 		<quantity>2</quantity>
+ 	</product>
+
+ 	<product>
+ 		<id>p02</id>
+ 		<name>name02</name>
+ 		<price>200</price>
+ 		<quantity>12</quantity>
+ 	</product>
+
+
+ 	<product>
+ 		<id>p03</id>
+ 		<name>name03</name>
+ 		<price>300</price>
+ 		<quantity>32</quantity>
+ 	</product>
+
+
+ 	<product>
+ 		<id>p04</id>
+ 		<name>name04</name>
+ 		<price>500</price>
+ 		<quantity>42</quantity>
+ 	</product>
+
+</products>
